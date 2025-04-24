@@ -1,0 +1,71 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 3
+  tags:
+  - Coin
+  - Trap
+  - Gai
+  - Ground
+  - Bullet
+  - Key
+  - DeathZone
+  - Heart
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Ground
+  - Trap
+  - Player
+  - Check
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: BackGround
+    uniqueID: 1640559547
+    locked: 0
+  - name: Ground
+    uniqueID: 3503917389
+    locked: 0
+  - name: ForeGround
+    uniqueID: 2589486675
+    locked: 0
+  - name: Player
+    uniqueID: 520476099
+    locked: 0
+  - name: Item
+    uniqueID: 650162483
+    locked: 0
+  - name: UI
+    uniqueID: 1997668011
+    locked: 0
+  m_RenderingLayers:
+  - Default
